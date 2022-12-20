@@ -8,11 +8,11 @@ Hack Cameras
 
 * apt-get install git
 
-* git clone https://github.com/HRC303/Hack-CCTV
+* git clone https://github.com/HRCXXII/Hack-CCTV.git
 
 * pip install -r requirements.txt
 
-* cd Cam-Hackers
+* cd Hack-CCTV
 
 * pip3 install requests colorama 
 
